@@ -1,4 +1,4 @@
-# LatinxInAI-ICML
+# Transfer-Learning-Face-Anti-Spoofing-Attack-Model
 
 Authors: Renato-Castro, Jonathan-Javier and Rodolfo-Galvez.
 
